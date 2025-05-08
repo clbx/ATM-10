@@ -1,1 +1,1 @@
-zip modpack.zip *
+zip -r modpack.zip *
