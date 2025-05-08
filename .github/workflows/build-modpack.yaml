@@ -20,7 +20,7 @@ jobs:
       run: bash build.sh
 
     - name: Upload modpack.zip
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: modpack
         path: modpack.zip
