@@ -1,0 +1,26 @@
+name: Build Modpack
+
+on:
+  push:
+    branches:
+    - main
+  pull_request:
+    branches:
+    - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Run build script
+      run: bash build.sh
+
+    - name: Upload modpack.zip
+      uses: actions/upload-artifact@v2
+      with:
+        name: modpack
+        path: modpack.zip
