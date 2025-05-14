@@ -14,6 +14,26 @@ When reporting an issue put the version number before the issue title! Such as [
 |<a href="https://www.reddit.com/r/allthemods"><img src="https://www.redditstatic.com/about/assets/reddit-logo.png" alt="/r/AllTheMods on Reddit"  width="200" height="67"></a>|
 <br>
 
+Newly added mods
+======
+
+#### Performance
+- 
+
+### Create
+- 
+
+### Utility
+- [Fast IP Ping](https://www.curseforge.com/minecraft/mc-mods/fast-ip-ping)
+- [Better F3](https://www.curseforge.com/minecraft/mc-mods/betterf3)
+- [Chunky](https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator-forge)
+- 
+
+### Aesthetic
+- [Skin Layer 3D](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d)
+- [Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons)
+
+
 #### Modpacks:
 + [![All the Mods 0](http://cf.way2muchnoise.eu/372309.svg "ATM0") All The Mods 0 - ATM0](https://www.curseforge.com/minecraft/modpacks/all-the-mods-0)
 + [![All the Mods 1](http://cf.way2muchnoise.eu/242462.svg "ATM1") All The Mods 1 - ATM1](https://www.curseforge.com/minecraft/modpacks/all-the-mods)
