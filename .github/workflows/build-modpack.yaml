@@ -16,11 +16,20 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
 
-    - name: Run build script
-      run: bash build.sh
-
     - name: Upload modpack.zip
       uses: actions/upload-artifact@v4
       with:
         name: modpack
         path: modpack.zip
+
+    - name: Upload modpack files
+      uses: actions/upload-artifact@v4
+      with:
+        name: modpack
+        path: |
+          overrides/**
+          changelogs/**
+          README.md
+          manifest.json
+          CHANGELOG.md
+          
