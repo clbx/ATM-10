@@ -16,7 +16,8 @@ When reporting an issue, please follow the templates!
 
 Newly added mods
 ======
-
+#### Core
+- [Neoforge 21.1.228 -> 21.1.233](https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.233/neoforge-21.1.233-changelog.txt)
 #### Performance
 - [Immediately Fast](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast/files/all?page=1&pageSize=20&version=1.21.1&gameVersionTypeId=6_)
 - [Noisium](https://www.curseforge.com/minecraft/mc-mods/noisium)
