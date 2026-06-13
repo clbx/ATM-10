@@ -576,8 +576,9 @@
     },
     {
       "projectID": 439890,
-      "fileID": 6960656,
-      "required": true
+      "fileID": 8188476,
+      "required": true,
+      "mod_link": "https://www.curseforge.com/minecraft/mc-mods/createaddition"
     },
     {
       "projectID": 1005676,
@@ -751,8 +752,9 @@
     },
     {
       "projectID": 1080592,
-      "fileID": 6797801,
-      "required": true
+      "fileID": 8109479,
+      "required": true,
+      "mod_link": "https://www.curseforge.com/minecraft/mc-mods/eternal-starlight"
     },
     {
       "projectID": 915902,
@@ -971,8 +973,9 @@
     },
     {
       "projectID": 854949,
-      "fileID": 6923714,
-      "required": true
+      "fileID": 7471474,
+      "required": true,
+      "mod_link": "https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures"
     },
     {
       "projectID": 1005914,
@@ -1181,8 +1184,9 @@
     },
     {
       "projectID": 238222,
-      "fileID": 6756166,
-      "required": true
+      "fileID": 7420587,
+      "required": true,
+      "mod_link": "https://www.curseforge.com/minecraft/mc-mods/jei"
     },
     {
       "projectID": 32274,
@@ -1246,13 +1250,15 @@
     },
     {
       "projectID": 238086,
-      "fileID": 5810100,
-      "required": true
+      "fileID": 8083208,
+      "required": true,
+      "mod_link": "https://www.curseforge.com/minecraft/mc-mods/kubejs"
     },
     {
       "projectID": 1306367,
-      "fileID": 6934294,
-      "required": true
+      "fileID": 7516288,
+      "required": true,
+      "mod_link": "https://www.curseforge.com/minecraft/mc-mods/kubejs-tweaks"
     },
     {
       "projectID": 776337,
@@ -1761,8 +1767,9 @@
     },
     {
       "projectID": 622888,
-      "fileID": 6690595,
-      "required": true
+      "fileID": 7436813,
+      "required": true,
+      "mod_link": "https://www.curseforge.com/minecraft/mc-mods/ponder/files/7436813"
     },
     {
       "projectID": 356801,
@@ -1956,8 +1963,9 @@
     },
     {
       "projectID": 416294,
-      "fileID": 6886923,
-      "required": true
+      "fileID": 8218748,
+      "required": true,
+      "mod_link": "https://www.curseforge.com/minecraft/mc-mods/rhino"
     },
     {
       "projectID": 295780,
@@ -2021,7 +2029,7 @@
     },
     {
       "projectID": 983390,
-      "fileID": 5984086,
+      "fileID": 7436830,
       "required": true
     },
     {
@@ -2206,7 +2214,7 @@
     },
     {
       "projectID": 260262,
-      "fileID": 5929065,
+      "fileID": 8001966,
       "required": true
     },
     {
