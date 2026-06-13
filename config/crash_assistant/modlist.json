@@ -2602,14 +2602,6 @@
     "curseForgeHash": 481964231,
     "modrinthHash": "9a9aff0b8ba8675b3cdd8f8259952355cff9236e"
   },
-  "omegaconfig-neoforge-1.5.1.jar": {
-    "jarName": "omegaconfig-neoforge-1.5.1.jar",
-    "modId": "omegaconfig",
-    "name": "Omega Config Architectury",
-    "version": "1.5.1",
-    "curseForgeHash": 3190950138,
-    "modrinthHash": "0840af96e66e88d4322ce4bb5c11c1b05a28ea56"
-  },
   "OpenLoader-neoforge-1.21.1-21.1.5.jar": {
     "jarName": "OpenLoader-neoforge-1.21.1-21.1.5.jar",
     "modId": "openloader",
