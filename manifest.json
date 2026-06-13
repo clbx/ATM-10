@@ -16,21 +16,6 @@
   "author": "DUMB Bois",
   "files": [
     {
-      "projectID": 1007288,
-      "fileID": 7657778,
-      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/monocle/download/7657778"
-    },
-    {
-      "projectID": 908741,
-      "fileID": 6118392,
-      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/embeddium/download/6118392"
-    },
-    {
-      "projectID": 1091339,
-      "fileID": 8090653,
-      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/alltheleaks/download/8090653"
-    },
-    {
       "projectID": 905040,
       "fileID": 6299879,
       "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/bellsandwhistles/download/6299879"
@@ -727,6 +712,11 @@
     {
       "projectID": 250832,
       "fileID": 6199696,
+      "required": true
+    },
+    {
+      "projectID": 908741,
+      "fileID": 6118392,
       "required": true
     },
     {
@@ -1527,6 +1517,11 @@
     {
       "projectID": 1131856,
       "fileID": 6394999,
+      "required": true
+    },
+    {
+      "projectID": 1007288,
+      "fileID": 6803201,
       "required": true
     },
     {
