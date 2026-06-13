@@ -25,7 +25,7 @@ Newly added mods
 - [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) \(Removed Embedium\)
 
 ### Create
-- [Create Aeronautics](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics)
+- 
 
 ### Utility
 - [Fast IP Ping](https://www.curseforge.com/minecraft/mc-mods/fast-ip-ping)
