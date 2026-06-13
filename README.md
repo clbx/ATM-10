@@ -31,7 +31,6 @@ Newly added mods
 - [Fast IP Ping](https://www.curseforge.com/minecraft/mc-mods/fast-ip-ping)
 - [Better F3](https://www.curseforge.com/minecraft/mc-mods/betterf3)
 - [Chunky](https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator-forge)
-- [Sable](https://www.curseforge.com/minecraft/mc-mods/sable)
 
 ### Aesthetic
 - [Skin Layer 3D](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d)
