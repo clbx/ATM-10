@@ -22,6 +22,7 @@ Newly added mods
 - [Noisium](https://www.curseforge.com/minecraft/mc-mods/noisium)
 - [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)
 - [alltheleaks](https://www.curseforge.com/minecraft/mc-mods/alltheleaks)
+- [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) \(Removed Embedium\)
 
 ### Create
 - [Create Aeronautics](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics)
