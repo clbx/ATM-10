@@ -14,7 +14,57 @@
   "name": "All the Mods 10 And more!",
   "version": "2.47",
   "author": "DUMB Bois",
-  "files" : [ {
+  "files" : [
+    {
+      "projectID": 905040,
+      "fileID": 6299879,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/bellsandwhistles/download/6299879"
+    },
+    {
+      "projectID": 1277234,
+      "fileID": 7128403,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/veinminer-enchantment/download/7128403"
+    },
+    {
+      "projectID": 360438,
+      "fileID": 7740400,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/lithium/download/7740401"
+    },
+    {
+      "projectID": 686911,
+      "fileID": 7537795,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/immediatelyfast/download/7537795"
+    },
+    {
+      "projectID": 904356,
+      "fileID": 7936390,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/fast-ip-ping/download/7936390"
+    },
+    {
+      "projectID": 521480,
+      "fileID": 7857567,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/download/7857567"
+    },
+    {
+      "projectID": 401648,
+      "fileID": 5873258,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/betterf3/download/5873258"
+    },
+    {
+      "projectID": 508933,
+      "fileID": 8037637,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/distant-horizons/download/8037637"
+    },
+    {
+      "projectID": 485681, 
+      "fileID":  6383261,
+      "downloadUrl":  "https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator-forge/download/6383261"
+    },
+    {
+      "projectID": 1091339,
+      "fileID": 8090653,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/alltheleaks/download/8090653"
+    }, {
     "required" : true,
     "projectID" : 351264,
     "fileID" : 7471280,
