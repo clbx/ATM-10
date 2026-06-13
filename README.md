@@ -22,8 +22,9 @@ Newly added mods
 - [Noisium](https://www.curseforge.com/minecraft/mc-mods/noisium)
 - [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)
 
+
 ### Create
-- 
+- [Create Aeronautics](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics)
 
 ### Utility
 - [Fast IP Ping](https://www.curseforge.com/minecraft/mc-mods/fast-ip-ping)
