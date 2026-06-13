@@ -32,8 +32,8 @@
     },
     {
       "projectID": 676721,
-      "fileID": 8240058,
-      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/create-aeronautics/download/8240058"
+      "fileID": 8003941,
+      "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/create-aeronautics/download/8003941"
     },
     {
       "projectID": 419699,
@@ -1537,11 +1537,6 @@
     {
       "projectID": 1131856,
       "fileID": 6394999,
-      "required": true
-    },
-    {
-      "projectID": 1007288,
-      "fileID": 6803201,
       "required": true
     },
     {
